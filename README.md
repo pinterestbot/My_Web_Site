@@ -7,4 +7,13 @@
 
 <img width="512" height="512" alt="home" src="https://github.com/user-attachments/assets/70ca206a-b236-4799-816d-6d0af256287b" />
 
+<img width="1143" height="1143" alt="pinterest-logo-png-1982 (1)" src="https://github.com/user-attachments/assets/bd507d08-8182-4bfb-ac56-d6938d66b926" />
+
+<img width="1200" height="1200" alt="telegram-png-21803" src="https://github.com/user-attachments/assets/58787264-6bc2-4239-85b8-e123ffd65463" />
+
+<img width="945" height="1004" alt="logo-home-png-7433" src="https://github.com/user-attachments/assets/63e32ff0-d35c-4acc-9913-27b9c323b2cc" />
+
+
+
+
 
