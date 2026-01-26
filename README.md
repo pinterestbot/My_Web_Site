@@ -13,6 +13,9 @@
 
 <img width="945" height="1004" alt="logo-home-png-7433" src="https://github.com/user-attachments/assets/63e32ff0-d35c-4acc-9913-27b9c323b2cc" />
 
+![anime-landscape-person-traveling](https://github.com/user-attachments/assets/664f07c5-cc1d-49d9-8cd2-989772c32442)
+
+
 
 
 
