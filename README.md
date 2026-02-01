@@ -15,6 +15,9 @@
 
 ![anime-landscape-person-traveling](https://github.com/user-attachments/assets/664f07c5-cc1d-49d9-8cd2-989772c32442)
 
+<img width="1536" height="1024" alt="file_00000000a3207208a2f903bf89068267" src="https://github.com/user-attachments/assets/a8f3363f-7dff-4dff-87e6-4b983f54c1e2" />
+
+
 
 
 
